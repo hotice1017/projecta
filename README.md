@@ -1,0 +1,2 @@
+# projecta
+test git lfs
