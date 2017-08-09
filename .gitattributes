@@ -5,3 +5,4 @@
 *.png filter=lfs diff=lfs merge=lfs -text
 *.mp4 filter=lfs diff=lfs merge=lfs -text
 >>>>>>> 361e1bdea410ae80d2a14881e465362c8bc6dc8b
+*.mp3 filter=lfs diff=lfs merge=lfs -text
